@@ -27,7 +27,7 @@ Below are the files that must be present in this project.
 6. You are **allowed** to use any CSS framework like Tailwind or Bootstrap
 7. You are **allowed** to use any frontend Javscript libraries like jQuery or VueJS
 8. Any frontend libraries for CSS and/or Javascript must be added via CDN. 
-9. Your own custom CSS and Javascript files must be added on /css and /js folder respectively
+9. Your own custom CSS and Javascript files must be added in /css and /js folder respectively
 
 ## Assignment 2
 
@@ -40,7 +40,7 @@ Continuing from **Assignment 1**, the secure page is to be developed into a dash
 1. Create a new empty database in your local MySQL
 2. Import the `northwindmysql.sql` file into your local database
 3. Study the database to understand its table relationships
-4. Updated `index.php` to display a dashboard from the `northwind` database
+4. Update `index.php` to display a dashboard from the `northwind` database
 5. You may use any charting and diagram library that you feel fit
 6. Any frontend libraries for CSS and/or Javascript must be added via CDN. 
 7. Your dashboard must display data for the month May 1995
@@ -48,7 +48,7 @@ Continuing from **Assignment 1**, the secure page is to be developed into a dash
    1. Total Sales (text number)
    2. Total Orders (text number)
    3. Daily Sales (bar chart)
-   4. Percentage of sales by products (percentage of amount of sales)
+   4. Percentage of sales by product categories (sales percentage breakdown for the month)
    5. Sales numbers by customers
    6. Sales numbers by employees
 9. You may add any additional PHP files of your own as needed, ie, `dbconnect.php`, `libraries.php`
