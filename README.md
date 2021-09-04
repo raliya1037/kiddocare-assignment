@@ -63,6 +63,6 @@ To submit your assignment, please following the instructions below :
 
 1. Create a new public Github project
 2. Push all your work to your new Github project using the `main` branch
-3. Send email to iszuddin@kiddocare.my with subject line **Kiddocare PHP Developer Assignment Submission**
+3. Send an email to iszuddin@kiddocare.my with subject line **Kiddocare PHP Developer Assignment Submission**
 4. Provide the link to your Github project in the email
 5. Your email must arrive in our Inbox before 5:00 pm, 11th September 2021, Kuala Lumpur time.
