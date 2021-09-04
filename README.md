@@ -4,6 +4,10 @@ Thank you for applying to our PHP Developer position at Kiddocare. For our selec
 
 Please read the instructions carefully.
 
+## Important!
+
+It is important that you do this assignment yourself to reflect your own true ability to perform the tasks. You are free to do research on the Internet, use Google, Stackoverflow, Youtube videos, books, and any other resources available to you. However do not ask for assistance from anybody else to complete this assignment.
+
 ## Assignment 1
 
 ![Login Diagram](login-diagrame.png "Login diagram")
