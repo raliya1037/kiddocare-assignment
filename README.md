@@ -1,6 +1,6 @@
 # Kiddocare Assignment
 
-Thank you for applying to our PHP Developer position at Kiddocare. For our selection process, we would require that you complete this assignment and submit it to us before 5pm, 11th September 2021, Kuala Lumpur time.
+Thank you for applying to our PHP Developer position at Kiddocare. For our selection process, we would require that you complete this assignment and submit it to us before 5pm, 19th September 2021, Kuala Lumpur time.
 
 Please read the instructions carefully.
 
@@ -69,4 +69,4 @@ To submit your assignment, please following the instructions below :
 2. Push all your work to your new Github project using the `main` branch
 3. Send an email to iszuddin@kiddocare.my with subject line **Kiddocare PHP Developer Assignment Submission**
 4. Provide the link to your Github project in the email
-5. Your email must arrive in our Inbox before 5:00 pm, 11th September 2021, Kuala Lumpur time.
+5. Your email must arrive in our Inbox before 5:00 pm, 19th September 2021, Kuala Lumpur time.
